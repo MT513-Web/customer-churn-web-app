@@ -34,9 +34,8 @@ If you want to run this project locally on your machine, follow these simple ste
 
 ## 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/MT513-Web/customer-churn-web-app.git](https://github.com/MT513-Web/customer-churn-web-app.git)
-   cd customer-churn-web-app
-   ```
+git clone https://github.com/MT513-Web/customer-churn-web-app.git
+```
 ## 2. Install the required dependencies:
 ```
 pip install -r requirements.txt
