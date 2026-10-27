@@ -46,3 +46,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+---
+⭐ *If you found this project helpful or interesting, feel free to give it a star! Built with passion by Ayesha Afzal* 🤍
