@@ -16,7 +16,7 @@ Your file needs these exact columns:
 `tenure_months`, `monthly_charges`, `support_calls`
 
 ## Tech stack
-Python, Streamlit, Scikit-Learn, Joblib, Pandas
+Python, Streamlit, Scikit-Learn, Joblib, Pandas, Docker
 
 ## About the model
 - The model is trained on a sample dataset for demonstration.
@@ -29,6 +29,12 @@ git clone https://github.com/MT513-Web/customer-churn-web-app.git
 cd customer-churn-web-app
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## Run with Docker 🐳
+```bash
+docker build -t churn-app .
+docker run -p 8501:8501 churn-app
 ```
 
 Built by Ayesha Afzal 🤍 If you find it useful, feel free to give it a star.
