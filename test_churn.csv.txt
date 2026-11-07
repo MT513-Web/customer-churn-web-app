@@ -1,0 +1,6 @@
+tenure_months,monthly_charges,support_calls
+12,55.5,2
+2,89.0,4
+24,20.0,0
+36,65.2,1
+5,99.9,5
